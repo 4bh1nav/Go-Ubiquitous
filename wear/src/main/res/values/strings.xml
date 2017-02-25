@@ -1,0 +1,13 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">wear</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">Sunshine</string>
+
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+
+    <!-- Temperature format -->
+    <string name="format_temperature" translatable="false">
+        <xliff:g id="temp">%1.0f</xliff:g>\u00B0
+    </string>
+</resources>

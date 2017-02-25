@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_f5734269929b1c61505949990021a150d54c168e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.android.support/percent/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.android.support-percent-23.0.1_07fcf200eca24b42a47a55f4198a464ab8dd189f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_7e8c50890e15f45ae64dcc0e40cd246afb341907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta3_963f89a93a75c6a8524cbdbe87f6f6ca5e7faeb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_866659fa85a0b9ac925cbc3527fe5225d6cdaf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_ec8ce30742aeb7238b12b76a6c89166249ed661f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_56a2a9d4958d1047d40cdd6f6edc35f671256128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_8c8313ddfdfaaafe7973311c65526f776212ac77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_462890688b77505b2f375e520ec87d437c5175c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_cf58be215e660edf60bc237e0a3e8d008ad63212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.firebase/firebase-jobdispatcher/0.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.firebase-firebase-jobdispatcher-0.5.0_fb988b9f4428a3f10477a376ac3ce2586381be81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_e3b50ad60212efa8d7c137665dedc8304232e7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_170454c3eb18b9ff487576befb747911d17d6d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio 2.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_8be786f0d128c0a075a4b94cb2633d308de3dff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.0_9382e87377111cddb1ffdbb8c96bb00c45748975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_2eb19aaff119f5f2869ffba60186ca9ff4b36582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7f214dfea2c5307e7a61a6c859332a66a55fb8db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_bf0df15a50bcf3cd90677748b40544ae37e835d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_df621d5b53218edfe518556cf651f24d877b2fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_ac2bfc500f90eeb0b4228caf56785005ebcc7f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_e443677a7d95b3957935d4e77164857a1b11f8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_15ef5095f05ca5b09f67e36d5977a1545dbac4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_1ddfc8ddc819edf4add9341638abd37ccaf28e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0_e7a0fb010f8f9e60b81fb9a11c865e905268aea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_e56ba44226aab029cf0f2d1afdb4ded2b5e705d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.2.0_9f3a0f3e2c818657ec15d3376e63a2749e618bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bcc5d07e3c05d87798e602ad1e6d2a28ce0782d">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-25.0.1_014e5c3b3ac58068f01715f72cb0b6edbe922faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_7319aee6350c0ccc686281c16842a3520c03b379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_5523062730c0f93016e63b5c396d04ac243259d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7a55ea3df72f4ca9486f0452410a53d634f8cb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/wear/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_786969ac4b20ee91bad7d420a80569702814b571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/ron/Downloads/ud851-Sunshine-student/S12.04-Solution-ResourceQualifiers/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_f814f994612c945cac4ffe6150547490427f0441.jar" />
+    </item>
+
+</items>

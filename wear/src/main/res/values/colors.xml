@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#03A9F4</color>
+    <color name="digital_text">#ffffff</color>
+
+    <color name="digital_time_color">#ffffff</color>
+    <color name="digital_date_color">#B3E5FC</color>
+    <color name="digital_date_color_ambient">#cecece</color>
+
+    <color name="digital_Meridiem_color">@color/digital_date_color</color>
+    <color name="digital_Meridiem_color_ambient">@color/digital_date_color_ambient</color>
+    <color name="digital_divider_color">@color/digital_date_color</color>
+    <color name="digital_divider_color_ambient">@color/digital_date_color_ambient</color>
+
+    <!-- Temperature color -->
+    <color name="digital_high_temp_color">@color/digital_time_color</color>
+    <color name="digital_high_temp_color_ambient">@color/digital_time_color</color>
+    <color name="digital_low_temp_color">@color/digital_date_color</color>
+    <color name="digital_low_temp_color_ambient">@color/digital_date_color_ambient</color>
+</resources>
